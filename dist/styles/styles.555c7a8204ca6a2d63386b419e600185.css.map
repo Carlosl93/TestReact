@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/App.css"],"names":[],"mappings":"AAAA,EACI,iCAAsC,CAG1C,KAEI,SACA,SAAW","file":"styles/styles.555c7a8204ca6a2d63386b419e600185.css","sourcesContent":["* {\n    font-family: 'Montserrat', sans-serif;\n}\n\nbody\n{\n    margin:0;\n    padding: 0;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
